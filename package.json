@@ -1,0 +1,22 @@
+{
+  "name": "Final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "phoneBook.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "nodemon --exec ts-node src/phoneBook.ts"  
+     
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@types/node": "^13.1.8"
+  }
+}
