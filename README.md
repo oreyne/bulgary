@@ -2,4 +2,4 @@
 
 ## Run project
 
-Run `npm install` for install dependencies and run `npm start` for see the result.
+Run `npm install` to install dependencies and run `npm start` to see the result.
